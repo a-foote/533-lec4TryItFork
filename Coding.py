@@ -6,3 +6,6 @@ def func1:
  h=10;
  t=50
 
+def func3:
+ print("Hi")
+
